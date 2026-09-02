@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1320"/>
+      <stop offset="100%" stop-color="#13202f"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06b0d4"/>
+      <stop offset="100%" stop-color="#1c75f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity="0.15" stroke="#1c75f5" stroke-width="1">
+    <path d="M0 120 H1200 M0 240 H1200 M0 360 H1200 M0 480 H1200"/>
+    <path d="M200 0 V630 M400 0 V630 M600 0 V630 M800 0 V630 M1000 0 V630"/>
+  </g>
+  <text x="80" y="220" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="34" font-weight="700" letter-spacing="6" fill="#06b0d4">DATA ANALYST</text>
+  <text x="80" y="320" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="72" font-weight="800" fill="#ffffff">Turning Data Into</text>
+  <text x="80" y="400" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="72" font-weight="800" fill="url(#acc)">Actionable Insights.</text>
+  <text x="80" y="470" font-family="Inter, sans-serif" font-size="28" font-weight="500" fill="#a3b5cd">Power BI · SQL · Excel · Python</text>
+  <g transform="translate(820,180)">
+    <rect width="320" height="280" rx="16" fill="#13202f" stroke="#283a55"/>
+    <rect x="24" y="24" width="80" height="60" rx="8" fill="#1c2a3f"/>
+    <rect x="116" y="24" width="80" height="60" rx="8" fill="#1c2a3f"/>
+    <rect x="208" y="24" width="88" height="60" rx="8" fill="#1c2a3f"/>
+    <rect x="24" y="100" width="180" height="80" rx="8" fill="#1c2a3f"/>
+    <rect x="216" y="100" width="80" height="80" rx="40" fill="none" stroke="#06b0d4" stroke-width="6"/>
+    <rect x="24" y="196" width="272" height="60" rx="8" fill="#1c2a3f"/>
+    <path d="M40 240 L80 220 L120 230 L160 200 L200 210 L240 180 L280 190" stroke="#06b0d4" stroke-width="3" fill="none"/>
+  </g>
+</svg>
