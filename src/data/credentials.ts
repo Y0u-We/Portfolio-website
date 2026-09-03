@@ -57,28 +57,28 @@ export const education: EducationItem[] = [
     field: 'Computer Applications',
     org: 'Alard University (Alard Institute of Management Sciences)',
     detail: 'CGPA: 8.07',
-    downloadUrl: '/education/mca-certificate.pdf',
+    downloadUrl: 'https://drive.google.com/file/d/1jYFQgvJQcc04FL5aiB93UFkDb2teJoVG/view?usp=drive_link',
   },
   {
     degree: 'Bachelor of Computer Applications — BCA',
     field: 'Computer Applications',
     org: 'Sangamner College',
     detail: 'Undergraduate foundation in computing and applications.',
-    downloadUrl: '/education/bca-certificate.pdf',
+    downloadUrl: 'https://drive.google.com/file/d/1L3OEex8n1IuXxqsjktiAOFBP5inB-2q8/view?usp=drive_link',
   },
   {
     degree: 'HSC — 12th Standard',
     field: 'Higher Secondary',
     org: 'Higher Secondary Certificate',
     detail: 'Higher secondary education.',
-    downloadUrl: '/education/hsc-certificate.pdf',
+    downloadUrl: 'https://drive.google.com/file/d/1z9wQngN38UYhtjyK3NHOniVUP_NiAA9A/view?usp=drive_link',
   },
   {
     degree: 'SSC — 10th Standard',
     field: 'Secondary School',
     org: 'Secondary School Certificate',
     detail: 'Secondary school education.',
-    downloadUrl: '/education/ssc-certificate.pdf',
+    downloadUrl: 'https://drive.google.com/file/d/1rnGqZpgyUXnQyZHvRJyNOhRGrN3LUol2/view?usp=drive_link',
   },
 ];
 
